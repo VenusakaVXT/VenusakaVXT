@@ -1,6 +1,7 @@
 ### Hi, I'm VENUS 👋
-I am still a student and my dream is to become a professional Web Developer ❤️❤️❤️.
+I'm still a student and my dream is to become a professional Web Frontend Developer ❤️❤️❤️. Products I am currently working on:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VenusakaVXT&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VenusakaVXT&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VenusakaVXT&theme=github)
+<p align="left"> <a href="https://venusakavxt.github.io/template-library/" target="_blank" rel="noreferrer"><img src="![logo](https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/f84b4afd-0fd9-4af7-a2b6-c1ec5737bc42)
+" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://venusakavxt.github.io/buy-movie-ticket/" target="_blank" rel="noreferrer"><img src="![popcorn](https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/0da5292f-1994-4714-bd9d-0ddc65cfa792)
+" width="32" height="32" /></a></p>
