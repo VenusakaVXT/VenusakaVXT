@@ -14,7 +14,7 @@ Frontend:
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" width="45" height="45">
 <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" alt="TS" width="45" height="45">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="JQuery" width="45" height="45">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dredux&psig=AOvVaw3g78E4A9U4lM9pzMl_WAV8&ust=1693186443299000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMia9ZPZ-4ADFQAAAAAdAAAAABAK" alt="Redux" width="45" height="45">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-svg-vector.svg" alt="Redux" width="45" height="45">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="45" height="45">
 </div>
 
