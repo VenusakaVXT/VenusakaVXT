@@ -17,7 +17,7 @@ I'm still a student and my dream is to become a professional Web Developer ❤�
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="JQuery" width="45" height="45">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-svg-vector.svg" alt="Redux" width="45" height="45">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="45" height="45">
-<img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/5a0162dd-57a7-43d8-a264-c8ca5aa98609" alt="Handlebars" width="45" height="45">
+<img src="https://kodedu.com/wp-content/uploads/2014/02/handlebarz.png" alt="Handlebars" width="45" height="45">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="SCSS" width="45" height="45">
 </div>
 
@@ -32,15 +32,15 @@ I'm still a student and my dream is to become a professional Web Developer ❤�
 **🛢️ Database:**
 <div>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sql-server-icon.png" alt="SQL Server" width="45" height="45">
-<img src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" alt="MySQL" width="45" height="45">
+<img src="https://o.remove.bg/downloads/2d3c8cdd-36d4-4043-b63b-1ffb1eec0b05/png-clipart-mysql-mysql-removebg-preview.png" alt="MySQL" width="45" height="45">
 <img src="https://w7.pngwing.com/pngs/98/646/png-transparent-oracle-corporation-oracle-webcenter-oracle-database-oracle-e-business-suite-oracle-applications-others-text-trademark-logo-thumbnail.png" alt="Oracle" width="45" height="45">
 </div>
 
 
 **🔗 API:**
 <div>
-<img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="MongoDB" width="45" height="45">
-<img src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo-thumbnail.png" alt="Postman" width="45" height="45">
+<img src="https://o.remove.bg/downloads/55ace204-9b9c-45f5-9064-7850ba67c033/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail-removebg-preview.png" alt="MongoDB" width="45" height="45">
+<img src="https://o.remove.bg/downloads/593b2ac1-b5ef-49cc-b6d5-c3197657d9dd/png-transparent-postman-hd-logo-thumbnail-removebg-preview.png" alt="Postman" width="45" height="45">
 </div>
 
 
