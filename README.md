@@ -39,8 +39,8 @@ I'm still a student and my dream is to become a professional Web Developer ❤�
 
 **🔗 API:**
 <div>
-<img src="https://o.remove.bg/downloads/55ace204-9b9c-45f5-9064-7850ba67c033/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail-removebg-preview.png" alt="MongoDB" width="45" height="45">
-<img src="https://o.remove.bg/downloads/593b2ac1-b5ef-49cc-b6d5-c3197657d9dd/png-transparent-postman-hd-logo-thumbnail-removebg-preview.png" alt="Postman" width="45" height="45">
+<img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/9c91bfbc-3eec-427c-b11d-e440fb8d836a" alt="MongoDB" width="45" height="45">
+<img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/8abcd297-f91b-481f-8219-c2a8b082bfb2" alt="Postman" width="45" height="45">
 </div>
 
 
