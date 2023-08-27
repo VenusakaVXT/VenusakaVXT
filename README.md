@@ -17,7 +17,7 @@ I'm still a student and my dream is to become a professional Web Developer ‚ù§Ô∏
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="JQuery" width="45" height="45">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-svg-vector.svg" alt="Redux" width="45" height="45">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="45" height="45">
-<img src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/07/handlebars-js.png?fit=500%2C500&ssl=1" alt="Handlebars" width="45" height="45">
+<img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/5a0162dd-57a7-43d8-a264-c8ca5aa98609" alt="Handlebars" width="45" height="45">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="SCSS" width="45" height="45">
 </div>
 
