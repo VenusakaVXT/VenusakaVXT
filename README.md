@@ -16,12 +16,14 @@ I'm still a student and my dream is to become a professional Web Developer ❤�
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="JQuery" width="45" height="45">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-svg-vector.svg" alt="Redux" width="45" height="45">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="45" height="45">
+<img src="https://cdn.tutsplus.com/net/uploads/legacy/2143_handlebars/handlebars-thumb.jpg" alt="Handlebars" width="45" height="45">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="SCSS" width="45" height="45">
 </div>
 
 **👨🏼‍💻 Backend:**
 <div>
 <img src="https://qph.cf2.quoracdn.net/main-qimg-3cfbd1b045b7727351ff8871862e07a8" alt="ASP.NET" width="45" height="45">
-<img src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" alt="NodeJS" width="45" height="45">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="NodeJS" width="45" height="45">
 </div>
 
 **🛢️ Database:**
@@ -29,6 +31,12 @@ I'm still a student and my dream is to become a professional Web Developer ❤�
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sql-server-icon.png" alt="SQL Server" width="45" height="45">
 <img src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" alt="MySQL" width="45" height="45">
 <img src="https://w7.pngwing.com/pngs/98/646/png-transparent-oracle-corporation-oracle-webcenter-oracle-database-oracle-e-business-suite-oracle-applications-others-text-trademark-logo-thumbnail.png" alt="Oracle" width="45" height="45">
+</div>
+
+**🔗 API:**
+<div>
+<img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="MongoDB" width="45" height="45">
+<img src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo-thumbnail.png" alt="Postman" width="45" height="45">
 </div>
 
 **✨ Design:**
