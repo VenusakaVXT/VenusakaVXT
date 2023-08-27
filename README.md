@@ -1,7 +1,7 @@
 ## Hi, I'm VENUS 👋
 I'm still a student and my dream is to become a professional Web Developer ❤️❤️❤️. 
 
-**🛠🛠 Products I am currently working on:** [Template Library](https://venusakavxt.github.io/template-library/), [Buy Movie Tickets](https://venusakavxt.github.io/buy-movie-ticket/), ...
+**🛠🛠 Products I am currently working on:** [Template Library](https://venusakavxt.github.io/template-library/), [Buy Movie Tickets](https://venusakavxt.github.io/buy-movie-ticket/), ....
 <div>
 <img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/d5dd5555-9944-46e4-9bc8-14548fe32c01" alt="TL" width="45" height="45">
 <img src="https://cdn-icons-png.flaticon.com/512/3418/3418886.png" alt="popcorn" width="45" height="45">
@@ -32,7 +32,7 @@ I'm still a student and my dream is to become a professional Web Developer ❤�
 **🛢️ Database:**
 <div>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sql-server-icon.png" alt="SQL Server" width="45" height="45">
-<img src="https://o.remove.bg/downloads/2d3c8cdd-36d4-4043-b63b-1ffb1eec0b05/png-clipart-mysql-mysql-removebg-preview.png" alt="MySQL" width="45" height="45">
+<img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/e8bbb6a7-7cd6-42cb-9316-85fcc5a2a992" alt="MySQL" width="45" height="45">
 <img src="https://w7.pngwing.com/pngs/98/646/png-transparent-oracle-corporation-oracle-webcenter-oracle-database-oracle-e-business-suite-oracle-applications-others-text-trademark-logo-thumbnail.png" alt="Oracle" width="45" height="45">
 </div>
 
