@@ -1,9 +1,8 @@
 ## Hi, I'm VENUS 👋
 I'm still a student and my dream is to become a professional Web Developer ❤️❤️❤️. 
 
-**🛠🛠 Products I am currently working on:**
+**🛠🛠 Products I am currently working on:** [Template Library](https://venusakavxt.github.io/template-library/), [Buy Movie Tickets](https://venusakavxt.github.io/buy-movie-ticket/), ...
 <div>
-<p align="left"> <a href="https://venusakavxt.github.io/template-library/"><img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/d5dd5555-9944-46e4-9bc8-14548fe32c01" alt="TL" width="45" height="45"></a></p>
 <img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/d5dd5555-9944-46e4-9bc8-14548fe32c01" alt="TL" width="45" height="45">
 <img src="https://o.remove.bg/downloads/d4f2e4cc-8b57-46a3-9d7e-5bbc490401e8/263502634-8a26791d-4219-4c43-9819-34b978a2ab24-removebg-preview.png" alt="popcorn" width="45" height="45">
 </div>
@@ -55,6 +54,6 @@ I'm still a student and my dream is to become a professional Web Developer ❤�
 **🚀 Other:**
 <div>
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="45" height="45">
-<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="C#" width="38" height="45">
+<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="C#" width="39" height="45">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt=Python" width="45" height="45">
 </div>
