@@ -7,6 +7,7 @@ I'm still a student and my dream is to become a professional Web Developer ❤�
 <img src="https://o.remove.bg/downloads/d4f2e4cc-8b57-46a3-9d7e-5bbc490401e8/263502634-8a26791d-4219-4c43-9819-34b978a2ab24-removebg-preview.png" alt="popcorn" width="45" height="45">
 </div>
 
+
 **👨🏼‍💻 Frontend:**
 <div>
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="45" height="45">
@@ -16,15 +17,17 @@ I'm still a student and my dream is to become a professional Web Developer ❤�
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="JQuery" width="45" height="45">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-svg-vector.svg" alt="Redux" width="45" height="45">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="45" height="45">
-<img src="https://cdn.tutsplus.com/net/uploads/legacy/2143_handlebars/handlebars-thumb.jpg" alt="Handlebars" width="45" height="45">
+<img src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/07/handlebars-js.png?fit=500%2C500&ssl=1" alt="Handlebars" width="45" height="45">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="SCSS" width="45" height="45">
 </div>
+
 
 **👨🏼‍💻 Backend:**
 <div>
 <img src="https://qph.cf2.quoracdn.net/main-qimg-3cfbd1b045b7727351ff8871862e07a8" alt="ASP.NET" width="45" height="45">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="NodeJS" width="45" height="45">
 </div>
+
 
 **🛢️ Database:**
 <div>
@@ -33,17 +36,20 @@ I'm still a student and my dream is to become a professional Web Developer ❤�
 <img src="https://w7.pngwing.com/pngs/98/646/png-transparent-oracle-corporation-oracle-webcenter-oracle-database-oracle-e-business-suite-oracle-applications-others-text-trademark-logo-thumbnail.png" alt="Oracle" width="45" height="45">
 </div>
 
+
 **🔗 API:**
 <div>
 <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="MongoDB" width="45" height="45">
 <img src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo-thumbnail.png" alt="Postman" width="45" height="45">
 </div>
 
+
 **✨ Design:**
 <div>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJAV3Kr0iiiHNiXUayS6HwYjN7g9pghV99dH4sN0V1IvrVM492G_XFRIyT8uzLs4BSzI8&usqp=CAU" alt="Unity" width="45" height="45">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="45" height="45">
 </div>
+
 
 **🚀 Other:**
 <div>
