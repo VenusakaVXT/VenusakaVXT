@@ -1,7 +1,7 @@
 ## Hi, I'm VENUS 👋
 I'm still a student and my dream is to become a professional Web Developer ❤️❤️❤️. 
 
-**🛠🛠 Products I am currently working on:** [Template Library](https://venusakavxt.github.io/template-library/), [Buy Movie Tickets](https://venusakavxt.github.io/buy-movie-ticket/), ....
+**🛠🛠 Products I am currently working on:** [Template Library](https://venusakavxt.github.io/template-library/), [Buy Movie Tickets](https://venusakavxt.github.io/movie-news/), ....
 <div>
 <img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/d5dd5555-9944-46e4-9bc8-14548fe32c01" alt="TL" width="45" height="45">
 <img src="https://cdn-icons-png.flaticon.com/512/3418/3418886.png" alt="popcorn" width="45" height="45">
