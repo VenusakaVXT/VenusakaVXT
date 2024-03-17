@@ -1,7 +1,7 @@
 ## Hi, I'm VENUS 👋
-I'm still a student and my dream is to become a professional Web Developer ❤️❤️❤️. 
+I'm still a student and my dream is to become a professional Developer ❤️❤️❤️. 
 
-**🛠🛠 Products I am currently working on:** [Template Library](https://venusakavxt.github.io/template-library/), [Buy Movie Tickets](https://venusakavxt.github.io/movie-news/), ....
+**🛠🛠 Products I am currently working on:** [Template Library](https://venusakavxt.github.io/ui-template-library/), [Buy Movie Tickets](https://github.com/VenusakaVXT/buy-movie-tickets), ....
 <div>
   <img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/d5dd5555-9944-46e4-9bc8-14548fe32c01" alt="TL" width="45" height="45">
   <img src="https://cdn-icons-png.flaticon.com/512/3418/3418886.png" alt="popcorn" width="45" height="45">
@@ -33,13 +33,13 @@ I'm still a student and my dream is to become a professional Web Developer ❤�
 <div>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sql-server-icon.png" alt="SQL Server" width="45" height="45">
   <img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/e8bbb6a7-7cd6-42cb-9316-85fcc5a2a992" alt="MySQL" width="45" height="45">
-  <img src="https://w7.pngwing.com/pngs/98/646/png-transparent-oracle-corporation-oracle-webcenter-oracle-database-oracle-e-business-suite-oracle-applications-others-text-trademark-logo-thumbnail.png" alt="Oracle" width="45" height="45">
+  <img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/9c91bfbc-3eec-427c-b11d-e440fb8d836a" alt="MongoDB" width="45" height="45">
 </div>
 
 
 **🔗 API:**
 <div>
-  <img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/9c91bfbc-3eec-427c-b11d-e440fb8d836a" alt="MongoDB" width="45" height="45">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="GraphQL" width="45" height="45">
   <img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/8abcd297-f91b-481f-8219-c2a8b082bfb2" alt="Postman" width="45" height="45">
 </div>
 
