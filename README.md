@@ -26,6 +26,7 @@ I'm still a student and my dream is to become a professional Developer ❤️❤
 <div>
   <img src="https://qph.cf2.quoracdn.net/main-qimg-3cfbd1b045b7727351ff8871862e07a8" alt="ASP.NET" width="45" height="45">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="NodeJS" width="45" height="45">
+  <img src="https://github.com/user-attachments/assets/2ce57378-8e9e-4279-9769-439c54d60031" alt="Spring Boot" width="44" height="45">
 </div>
 
 
@@ -34,6 +35,7 @@ I'm still a student and my dream is to become a professional Developer ❤️❤
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sql-server-icon.png" alt="SQL Server" width="45" height="45">
   <img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/e8bbb6a7-7cd6-42cb-9316-85fcc5a2a992" alt="MySQL" width="45" height="45">
   <img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/9c91bfbc-3eec-427c-b11d-e440fb8d836a" alt="MongoDB" width="45" height="45">
+  <img src="https://github.com/user-attachments/assets/1699fb4e-c6fc-4f6f-bd8e-0b9815a1691f" alt="PostgreSQL" width="48" height="45">
 </div>
 
 
@@ -55,6 +57,7 @@ I'm still a student and my dream is to become a professional Developer ❤️❤
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="45" height="45">
   <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="C#" width="39" height="45">
+  <img src="https://github.com/user-attachments/assets/bdb41259-c339-48b7-8373-5abc3d02e549" alt=Java" width="39" height="45">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt=Python" width="45" height="45">
   <img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/27839327-ae93-4e5d-b189-6c24f27be7a1" alt=VBA" width="45" height="45">
 </div>
