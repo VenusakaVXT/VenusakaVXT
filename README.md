@@ -15,10 +15,11 @@ I'm still a student and my dream is to become a professional Developer ❤️❤
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" width="45" height="45">
   <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" alt="TS" width="45" height="45">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="JQuery" width="45" height="45">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-svg-vector.svg" alt="Redux" width="45" height="45">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="45" height="45">
   <img src="https://kodedu.com/wp-content/uploads/2014/02/handlebarz.png" alt="Handlebars" width="45" height="45">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="SCSS" width="45" height="45">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-svg-vector.svg" alt="Redux" width="45" height="45">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="45" height="45">
+  <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" alt="NEXTJS" width="45" height="45">
 </div>
 
 
