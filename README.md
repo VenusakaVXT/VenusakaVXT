@@ -1,5 +1,5 @@
 ## Hi, I'm VENUS 👋
-I'm still a student and my dream is to become a professional Developer ❤️❤️❤️. 
+My goal is to become a professional Developer ❤️❤️❤️. 
 
 **🛠🛠 Products I am currently working on:** <a target="_blank" href="https://venusakavxt.github.io/ui-template-library/">UI Template Library</a>, <a target="_blank" href="https://buy-movie-tickets.vercel.app/">Buy Movie Tickets</a>, ....
 <div>
