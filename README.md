@@ -28,6 +28,7 @@ My goal is to become a professional Developer ❤️❤️❤️.
   <img src="https://qph.cf2.quoracdn.net/main-qimg-3cfbd1b045b7727351ff8871862e07a8" alt="ASP.NET" width="45" height="45">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="NodeJS" width="45" height="45">
   <img src="https://github.com/user-attachments/assets/2ce57378-8e9e-4279-9769-439c54d60031" alt="Spring Boot" width="44" height="45">
+  <img width="45" height="45" alt="NestJS" src="https://github.com/user-attachments/assets/1c8ef147-afee-466e-9278-87e118dd1e72" />
 </div>
 
 
