@@ -13,7 +13,7 @@ My goal is to become a professional Developer ❤️❤️❤️.
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="45" height="45">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" width="45" height="45">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" width="45" height="45">
-  <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" alt="TS" width="45" height="45">
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TS" width="45" height="45">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="JQuery" width="45" height="45">
   <img src="https://kodedu.com/wp-content/uploads/2014/02/handlebarz.png" alt="Handlebars" width="45" height="45">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="SCSS" width="45" height="45">
@@ -58,7 +58,7 @@ My goal is to become a professional Developer ❤️❤️❤️.
 **🚀 Other:**
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="45" height="45">
-  <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="C#" width="39" height="45">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="C#" width="39" height="45">
   <img src="https://github.com/user-attachments/assets/bdb41259-c339-48b7-8373-5abc3d02e549" alt=Java" width="39" height="45">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt=Python" width="45" height="45">
   <img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/27839327-ae93-4e5d-b189-6c24f27be7a1" alt=VBA" width="45" height="45">
