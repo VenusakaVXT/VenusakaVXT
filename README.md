@@ -57,12 +57,11 @@ My goal is to become a professional Developer ❤️❤️❤️.
 
 
 **🚀 Other:**
-<div style="display:flex;align-item:center;">
+<div>
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="45" height="45">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="C#" width="39" height="45">
   <img src="https://github.com/user-attachments/assets/bdb41259-c339-48b7-8373-5abc3d02e549" alt=Java" width="39" height="45">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/3840px-PHP-logo.svg.png" alt=PHP" width="39" height="45">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt=Python" width="45" height="45">
   <img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/27839327-ae93-4e5d-b189-6c24f27be7a1" alt=VBA" width="45" height="45">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJl4fp0SkQbTPU5ZxVl6AKWYuKCwM0gIhNtQ&s" alt=VBA" width="45" height="45">
 </div>
