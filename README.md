@@ -1,5 +1,5 @@
 ## Hi, I'm VENUS 👋
-My goal is to become a professional Developer ❤️❤️❤️. 
+Full-stack Developer building scalable, user-first apps — contact me via email or social links on the left of my GitHub profile. 
 
 **🛠🛠 Products I am currently working on:** <a target="_blank" href="https://venusakavxt.github.io/ui-template-library/">UI Template Library</a>, <a target="_blank" href="https://buy-movie-tickets.vercel.app/">Buy Movie Tickets</a>, ....
 <div>
@@ -44,7 +44,7 @@ My goal is to become a professional Developer ❤️❤️❤️.
 
 **🔗 API:**
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="GraphQL" width="45" height="45">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe4UWvuS5cw3x5Oev1sUEqUvRj6rCB9sWWqw&s" alt="GraphQL" width="45" height="45">
   <img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/8abcd297-f91b-481f-8219-c2a8b082bfb2" alt="Postman" width="45" height="45">
 </div>
 
@@ -59,9 +59,9 @@ My goal is to become a professional Developer ❤️❤️❤️.
 **🚀 Other:**
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="45" height="45">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="C#" width="39" height="45">
+  <img src="" alt="C#" width="39" height="45">
   <img src="https://github.com/user-attachments/assets/bdb41259-c339-48b7-8373-5abc3d02e549" alt=Java" width="39" height="45">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/3840px-PHP-logo.svg.png" alt=PHP" width="39" height="45">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-php-logo-icon-svg-download-png-2284918.png?f=webp" alt=PHP" width="39" height="45">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt=Python" width="45" height="45">
   <img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/27839327-ae93-4e5d-b189-6c24f27be7a1" alt=VBA" width="45" height="45">
 </div>
