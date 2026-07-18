@@ -39,6 +39,7 @@ Full-stack Developer building scalable, user-first apps — contact me via email
   <img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/e8bbb6a7-7cd6-42cb-9316-85fcc5a2a992" alt="MySQL" width="45" height="45">
   <img src="https://github.com/VenusakaVXT/VenusakaVXT/assets/125566811/9c91bfbc-3eec-427c-b11d-e440fb8d836a" alt="MongoDB" width="45" height="45">
   <img src="https://github.com/user-attachments/assets/1699fb4e-c6fc-4f6f-bd8e-0b9815a1691f" alt="PostgreSQL" width="48" height="45">
+  <img src="https://www.vhv.rs/dpng/d/453-4533338_oracle-logo-for-website-new-oracle-logo-png.png" alt="Oracle" width="48" height="45">
 </div>
 
 
@@ -59,7 +60,7 @@ Full-stack Developer building scalable, user-first apps — contact me via email
 **🚀 Other:**
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="45" height="45">
-  <img src="" alt="C#" width="39" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/csharp.webp" alt="C#" width="39" height="45">
   <img src="https://github.com/user-attachments/assets/bdb41259-c339-48b7-8373-5abc3d02e549" alt=Java" width="39" height="45">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-php-logo-icon-svg-download-png-2284918.png?f=webp" alt=PHP" width="39" height="45">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt=Python" width="45" height="45">
